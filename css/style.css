@@ -101,11 +101,6 @@ header.shadow {
     display: none;
 }
 
-#darkmode {
-    font-size: 22px;
-    cursor: pointer;
-}
-
 .home {
     position: relative;
     width: 100%;
